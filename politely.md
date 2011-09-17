@@ -22,3 +22,6 @@
 * I would enjoy spending an evening with you.
 * You have big hands.
 * People find you amusing.
+* People enjoy your company.
+* I  appreciate the sincerity of your mustache.
+* You'd be creepy if you weren't so good-looking.
