@@ -1,0 +1,23 @@
+@import url(reset.css);
+
+body {
+  background: #fff;
+  color: #111;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  padding: 50px
+}
+
+p {
+  font-size: 28px;
+  font-weight: 700;
+}
+
+@media only screen and (max-width: 900px) {
+
+}
+
+@media only screen and (max-width: 600px) {
+
+}
