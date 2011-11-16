@@ -16,9 +16,15 @@ class App < Sinatra::Base
 		Politely.compliments.to_json
 	end	
 	
+
+	get "/random" do
+		content_type 'text/plain'
+		Politely.random
+	end
+
 	get "/random.json" do
 		content_type :json
 		Politely.random.to_json
-	end	
+	end
 
 end
