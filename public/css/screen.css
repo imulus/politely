@@ -18,16 +18,22 @@ body {
   font-size: 15px;
   line-height: 1.5;
   padding: 50px;
-  text-align: center;
 }
 
-a {
-  color: #51ADD6;
+a { 
+  color: #51ADD6; 
+  text-decoration: none;
+}
+
+a:hover { 
+  color: #444; 
+  text-decoration: underline;
 }
 
 p {
   font-size: 28px;
   font-weight: 700;
+  text-align: center;
 }
 
 footer {
@@ -38,5 +44,14 @@ footer {
   bottom: 0;
   left: 0;
   right: 0;
-  padding: 5px 0;
+  padding: 5px 10px;
 }
+
+footer nav {
+  float: right;
+}
+
+footer nav a {
+  margin-left: 10px;
+}
+
