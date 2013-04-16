@@ -4,19 +4,15 @@ require 'open-uri'
 
 module Politely
   def self.compliments
-    compliments = []
-
-		File.open('politely.md').each_line do |compliment|
-			compliments.push compliment.gsub(/\* /, '')
+    @compliments ||= begin
+      File.open('politely.md').each_line.map do |compliment|
+        compliment.gsub(/\* /, '').gsub(/\n/, '')
+      end
     end
-
-		return compliments
   end
 
-
   def self.random
-    compliments[rand(compliments.size)]
+    compliments.sample
   end
 end
 
-puts Politely.random
