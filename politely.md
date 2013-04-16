@@ -23,5 +23,13 @@
 * You have big hands.
 * People find you amusing.
 * People enjoy your company.
-* I  appreciate the sincerity of your mustache.
+* I appreciate the sincerity of your mustache.
 * You'd be creepy if you weren't so good-looking.
+* I like how your elbows smell.
+* You've done a good job hiding how weird you are.
+* You're lucky you have really small boobs or you'd look like a slut.
+* It's so refreshing to meet someone who doesn't care how they look.
+* You've got a face for radio.
+* I don't care what they say about you, you're alright.
+* You're a better kisser than your brother.
+* I like your outfit. It matches today.
