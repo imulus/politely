@@ -33,4 +33,4 @@
 * I don't care what they say about you, you're alright.
 * You're a better kisser than your brother.
 * I like your outfit. It matches today.
-* You have a nicely shaped natural beard
+* You have a nicely shaped natural beard.
