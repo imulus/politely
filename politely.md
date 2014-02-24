@@ -23,7 +23,7 @@
 * You have big hands.
 * People find you amusing.
 * People enjoy your company.
-* I appreciate the sincerity of your mustache.
+* I appreciate the sincerity of your moustache.
 * You'd be creepy if you weren't so good-looking.
 * I like how your elbows smell.
 * You've done a good job hiding how weird you are.
